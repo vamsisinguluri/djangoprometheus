@@ -1,0 +1,7 @@
+Django==2.1.*
+django-prometheus
+djangorestframework
+pandas
+openpyxl
+xlrd
+whitenoise
